@@ -1,0 +1,2 @@
+<div style="font-family: arial; font-size: 300px; text-align: center; color: #333;">404</div>
+<div style="color: #666; margin: 0 auto; text-align: right; width: 500px; margin-top: -60px; height: 20px; padding-bottom: 20px;">DUN DUN DUNNNNNNNN!</div>
